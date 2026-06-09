@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("HOLA BUENAS");
+        System.out.println("HOLA BUENAS (en main)");
     }
 
     // Nueva función añadida en la rama-suma
