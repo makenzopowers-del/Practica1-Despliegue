@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Versión Inicial del Proyecto");
+        System.out.println("Versión Inicial del Proyecto - modificao en main");
     }
 
     // Nueva función añadida en la rama-suma
